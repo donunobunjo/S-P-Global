@@ -83,3 +83,15 @@ To bring out insights clearly, the following visualizations were implemented:
 This project demonstrates how **financial datasets can be transformed into actionable insights** through exploratory data analysis. By focusing on stock returns, trading activity, moving averages, and volatility, the analysis provides a comprehensive picture of market dynamics.
 
 Such an approach is valuable for **investors, analysts, and portfolio managers** aiming to understand market behavior and make informed decisions.
+
+
+---
+
+[Dataset](https://github.com/donunobunjo/S-P-Global/blob/main/all_stocks_5yr.csv)
+
+
+[Power BI Dashboard](https://github.com/donunobunjo/S-P-Global-Dashboard)
+
+
+[GitHub](https://github.com/donunobunjo/S-P-Global.git)
+
